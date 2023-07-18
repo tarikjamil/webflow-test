@@ -8,34 +8,26 @@ const totalLength = paths.reduce(
 
 let cumulativeLength = 0;
 
-paths.forEach((path, i) => {
-  const length = path.getTotalLength();
+paths.forEach((path) => {
+  const pathLength = path.getTotalLength();
+  const start = cumulativeLength / totalLength;
+  const end = (cumulativeLength + pathLength) / totalLength;
 
   gsap.set(path, {
-    strokeDasharray: length,
-    strokeDashoffset: length,
+    strokeDasharray: pathLength,
+    strokeDashoffset: pathLength,
   });
 
-  const animation = gsap.timeline({
+  gsap.to(path, {
+    strokeDashoffset: 0,
     scrollTrigger: {
       trigger: ".commitment-section",
-      scrub: 1,
-      start: "top center",
-      end: "bottom bottom",
+      scrub: true,
+      start: start * 100 + "% top",
+      end: end * 100 + "% bottom",
+      markers: true,
     },
   });
 
-  animation.fromTo(
-    path,
-    {
-      strokeDashoffset: length,
-    },
-    {
-      strokeDashoffset: 0,
-      ease: "none",
-    },
-    cumulativeLength / totalLength
-  ); // start each path's animation at the proportionate point along the timeline
-
-  cumulativeLength += length;
+  cumulativeLength += pathLength;
 });
