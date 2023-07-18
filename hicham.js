@@ -15,7 +15,7 @@ paths.forEach((path) => {
 
   gsap.set(path, {
     strokeDasharray: pathLength,
-    strokeDashoffset: pathLength,
+    strokeDashoffset: pathLength > 0 ? pathLength : 0,
   });
 
   gsap.to(path, {
@@ -23,11 +23,11 @@ paths.forEach((path) => {
     scrollTrigger: {
       trigger: ".commitment-section",
       scrub: true,
-      start: "top center",
-      end: "bottom center",
+      start: start * 100 + "% top",
+      end: end * 100 + "% bottom",
       markers: true,
     },
   });
 
-  cumulativeLength += pathLength;
+  cumulativeLength += pathLength > 0 ? pathLength : 0;
 });
