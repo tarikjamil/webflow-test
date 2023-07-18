@@ -10,8 +10,8 @@ let cumulativeLength = 0;
 
 paths.forEach((path) => {
   const pathLength = path.getTotalLength();
-  const start = cumulativeLength / totalLength;
-  const end = (cumulativeLength + pathLength) / totalLength;
+  const start = (cumulativeLength / totalLength) * 100;
+  const end = ((cumulativeLength + pathLength) / totalLength) * 100;
 
   gsap.set(path, {
     strokeDasharray: pathLength,
@@ -23,8 +23,8 @@ paths.forEach((path) => {
     scrollTrigger: {
       trigger: ".commitment-section",
       scrub: true,
-      start: "top center",
-      end: "bottom center",
+      start: `${start}% center`,
+      end: `${end}% center`,
       markers: true,
     },
   });
