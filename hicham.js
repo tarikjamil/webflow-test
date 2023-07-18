@@ -23,8 +23,8 @@ paths.forEach((path) => {
     scrollTrigger: {
       trigger: ".commitment-section",
       scrub: true,
-      start: start * 100 + "% top",
-      end: end * 100 + "% bottom",
+      start: "top center",
+      end: "bottom center",
       markers: true,
     },
   });
