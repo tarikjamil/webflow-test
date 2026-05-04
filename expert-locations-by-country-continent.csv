@@ -1,0 +1,139 @@
+row,city,state_or_region,country,continent
+1,Zurich,Canton of Zurich,Switzerland,Europe
+2,Tokyo,Tokyo Metropolis,Japan,Asia
+3,Seattle,Washington,United States,North America
+4,Brooklyn,New York,United States,North America
+5,San Francisco,California,United States,North America
+6,Los Angeles,California,United States,North America
+7,Winchester,England,United Kingdom,Europe
+8,"Denver, CO",Colorado,United States,North America
+9,Seattle,Washington,United States,North America
+10,Vancouver,British Columbia,Canada,North America
+11,New York City,New York,United States,North America
+12,Sofia,Sofia City Province,Bulgaria,Europe
+13,London,England,United Kingdom,Europe
+14,Amsterdam,North Holland,Netherlands,Europe
+15,London,England,United Kingdom,Europe
+16,San Francisco,California,United States,North America
+17,Amsterdam,North Holland,Netherlands,Europe
+18,San Francisco,California,United States,North America
+19,New York City,New York,United States,North America
+20,London,England,United Kingdom,Europe
+21,Middletown,,United States,North America
+22,Wroclaw,Lower Silesia,Poland,Europe
+23,Brisbane,Queensland,Australia,Oceania
+24,Leeds,England,United Kingdom,Europe
+25,Sydney,New South Wales,Australia,Oceania
+26,Bengaluru,Karnataka,India,Asia
+27,Pittsburgh,Pennsylvania,United States,North America
+28,Washington DC,District of Columbia,United States,North America
+29,New York City,New York,United States,North America
+30,Saint Petersburg,Florida,United States,North America
+31,Paris,,France,Europe
+32,New York,New York,United States,North America
+33,Wellington,Wellington,New Zealand,Oceania
+34,London,England,United Kingdom,Europe
+35,Denver,Colorado,United States,North America
+36,Auckland,Auckland,New Zealand,Oceania
+37,Springfield,,United States,North America
+38,Copenhagen,Capital Region,Denmark,Europe
+39,Houston,Texas,United States,North America
+40,New York,New York,United States,North America
+41,Paris,,France,Europe
+42,New York,New York,United States,North America
+43,Chicago,Illinois,United States,North America
+44,Boston,Massachusetts,United States,North America
+45,San Francisco,California,United States,North America
+46,New York,New York,United States,North America
+47,New York,New York,United States,North America
+48,Warsaw,Masovia,Poland,Europe
+49,Dubai,Dubai,United Arab Emirates,Asia
+50,Dallas,Texas,United States,North America
+51,"Tampa, FL",Florida,United States,North America
+52,Des Moines,Iowa,United States,North America
+53,Milano,Lombardy,Italy,Europe
+54,Washington DC,District of Columbia,United States,North America
+55,Basque Country,Basque Country,Spain,Europe
+56,San Francisco,California,United States,North America
+57,Paris,,France,Europe
+58,Manchester,England,United Kingdom,Europe
+59,London,England,United Kingdom,Europe
+60,Detroit,Michigan,United States,North America
+61,Los Angeles,California,United States,North America
+62,Medford,Oregon,United States,North America
+63,New York,New York,United States,North America
+64,Melbourne,Victoria,Australia,Oceania
+65,Rhinebeck,New York,United States,North America
+66,Tilburg,North Brabant,Netherlands,Europe
+67,Melbourne,Victoria,Australia,Oceania
+68,Leeds,England,United Kingdom,Europe
+69,Poznan,Greater Poland,Poland,Europe
+70,Philadelphia,Pennsylvania,United States,North America
+71,New York,New York,United States,North America
+72,Dubai,Dubai,United Arab Emirates,Asia
+73,Atlanta,Georgia,United States,North America
+74,Los Angeles,California,United States,North America
+75,Nashville,Tennessee,United States,North America
+76,Baton Rouge,Louisiana,United States,North America
+77,Boston,Massachusetts,United States,North America
+78,San Francisco,California,United States,North America
+79,Marquette,Michigan,United States,North America
+80,Sion,Canton of Valais,Switzerland,Europe
+81,Gdansk,Pomerania,Poland,Europe
+82,Hamilton,Waikato,New Zealand,Oceania
+83,Aarhus,Central Denmark Region,Denmark,Europe
+84,Miami,Florida,United States,North America
+85,New York City,New York,United States,North America
+86,Brookyln,New York,United States,North America
+87,Salt Lake City,Utah,United States,North America
+88,Bristol,England,United Kingdom,Europe
+89,Salt Lake City,Utah,United States,North America
+90,Buenos Aires,Buenos Aires (CABA / Province),Argentina,South America
+91,Sydney,New South Wales,Australia,Oceania
+92,Galway,Connacht,Ireland,Europe
+93,Los Angeles,California,United States,North America
+94,Lake Oswego,Oregon,United States,North America
+95,San Francisco,California,United States,North America
+96,Singapore,Singapore,Singapore,Asia
+97,Madrid,,Spain,Europe
+98,Ljubljana,Central Slovenia,Slovenia,Europe
+99,Raleigh,North Carolina,United States,North America
+100,Delaware,Delaware,United States,North America
+101,Tallahassee,Florida,United States,North America
+102,Chicago,Illinois,United States,North America
+103,Hamburg,Hamburg,Germany,Europe
+104,Ottawa,Ontario,Canada,North America
+105,Chattanooga,Tennessee,United States,North America
+106,San Ramon,California,United States,North America
+107,Austin,Texas,United States,North America
+108,Edmonton Alberta,Alberta,Canada,North America
+109,Christchurch,Canterbury,New Zealand,Oceania
+110,London,England,United Kingdom,Europe
+111,Chicago,Illinois,United States,North America
+112,Los Angeles,California,United States,North America
+113,Cyberspace,,United States,North America
+114,San Francisco,California,United States,North America
+115,Charlotte,North Carolina,United States,North America
+116,Hong Kong,Hong Kong SAR,Hong Kong,Asia
+117,New York City,New York,United States,North America
+118,Chicago,Illinois,United States,North America
+119,Seville,,Spain,Europe
+120,Austin,Texas,United States,North America
+121,Vancouver,British Columbia,Canada,North America
+122,Kansas City,Missouri,United States,North America
+123,"Los Angeles, CA",California,United States,North America
+124,Denver,Colorado,United States,North America
+125,London,England,United Kingdom,Europe
+126,Atlanta,Georgia,United States,North America
+127,London,England,United Kingdom,Europe
+128,Palo Alto,California,United States,North America
+129,Grand Rapids,Michigan,United States,North America
+130,Toronto,Ontario,Canada,North America
+131,Ahmedabad,Gujarat,India,Asia
+132,Atlanta,Georgia,United States,North America
+133,Vancouver,British Columbia,Canada,North America
+134,Salt Lake City,Utah,United States,North America
+135,Memphis,Tennessee,United States,North America
+136,Paris & Cherbourg,Normandy (Cherbourg) / Île-de-France (Paris),France,Europe
+137,💻,,United States,North America
+138,Orlando,Florida,United States,North America
